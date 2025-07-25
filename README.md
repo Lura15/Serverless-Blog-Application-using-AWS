@@ -26,7 +26,3 @@ The Serverless Blog Post project is a simple yet powerful example of leveraging 
 - **AWS IAM:** For managing access to AWS services securely.
 
 - **GitHub:** Version control and collaboration on the project's source code.
-
-## The below diagram explains the structure of my project:
-
-![alt text](https://github.com/venugopal990/AWS-Serverless-Blog-App/blob/master/BlogPost-Aws-Architecture-Diagram.png?raw=true)
